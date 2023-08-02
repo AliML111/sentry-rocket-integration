@@ -4,4 +4,5 @@ This is a script for integrating Rocket.Chat and Sentry to streamline your workf
  <br />You only need to paste this script in the script part of the integration in Rocket.Chat.<br />
   <br />
   Here is a preview: <br />
+  <br />
   ![Here is a preview](https://raw.githubusercontent.com/AliML111/sentry-rocket-integration/main/Preview.png)
